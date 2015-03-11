@@ -20,8 +20,8 @@ import java.util.List;
  * Compression can achieve better space complexity.Still to be implemented.
  */
 
-//		 4  
-//		/ \
+//	     4  
+//	    / \
 //	   6   4
 //	   /\   hi
 //	  6  7
